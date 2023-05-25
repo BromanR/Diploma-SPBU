@@ -1,5 +1,7 @@
 # Diploma SPBU
  Implementation of ANOVA with missing data based on block designs
+ 
+[Презентация](Presentation_Diploma__Copy_.pdf)
 
 Данный код является приложением к бакалаврской работе.
 
@@ -10,5 +12,3 @@
 В файле "functions.R" представлены все функции используемые в программе
 В файле "example.R" представлен пример использования функций
 В файле "parameters.R" представлен пример оценки параметров 
-
-[Some title here](Presentation_Diploma__Copy_.pdf)
